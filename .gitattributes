@@ -1,0 +1,7 @@
+# Project-specific overrides
+src/**/*.astro linguist-detectable
+*.map linguist-generated
+dist/* linguist-vendored  
+src/*.astro linguist-detectable
+
+public/**/*.html linguist-vendored
